@@ -1,7 +1,5 @@
 # Durée
 
-## 2 à 3 heures
-
 ## Pourquoi utiliser Git ?
 
 Git est un outil de gestion de versions.
